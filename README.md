@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/Gabshh/Gabshh/blob/main/img/illustration.jpg" width="500">
+<img src="https://github.com/Gabshh/Gabshh/blob/main/img/illustration.jpg" width="300">
 </div>
   
 <div align="center">
@@ -45,9 +45,9 @@
 
 
 <div style="display: inline_block" align="center">
-<img height="450" width="450" src="https://i.pinimg.com/originals/6f/61/30/6f61303117eb9da74e554f75ddf913d3.gif">
+<img height="400" width="400" src="https://i.pinimg.com/originals/6f/61/30/6f61303117eb9da74e554f75ddf913d3.gif">
 
-<img height="450" width="450" src="https://media4.giphy.com/media/fVi9toGlv0tbMm1yoF/giphy.gif?cid=790b76114f02d692b44f2379edc79aa8bda39b3330ece064&rid=giphy.gif&ct=g">
+<img height="400" width="400" src="https://media4.giphy.com/media/fVi9toGlv0tbMm1yoF/giphy.gif?cid=790b76114f02d692b44f2379edc79aa8bda39b3330ece064&rid=giphy.gif&ct=g">
 </div>
 
 <!---
